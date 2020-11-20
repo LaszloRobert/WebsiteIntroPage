@@ -1,0 +1,2 @@
+# WebsiteIntroPage
+![](websiteIntro.gif)
